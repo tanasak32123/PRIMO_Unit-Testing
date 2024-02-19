@@ -4,6 +4,7 @@ To clone the project:
 ```bash
 git clone https://github.com/tanasak32123/PRIMO_Unit-Testing.git
 ```
+If you don't have Bun, please install [Bun](https://bun.sh/docs/installation) first.
 
 To install dependencies:
 
